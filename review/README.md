@@ -19,7 +19,7 @@ Canonical URLs, titles, descriptions, Open Graph metadata and WebPage JSON-LD ar
 
 ## Evidence and remaining confirmations
 
-The owner supplied Dr. Dwibhashi Kaarteek and APMC/FMR/95256. Matching public Practo and Eka Care listings were inspected. Practo labels registration verified but explicitly labels MBBS education unverified. Direct council verification and degree evidence remain outstanding; the bio states this clearly. No postgraduate credentials are published in the new English bio.
+The owner supplied Dr. Dwibhashi Kaarteek and APMC/FMR/95256. Matching public Practo and Eka Care listings were inspected. Practo labels registration verified but explicitly labels MBBS education unverified. Direct council verification and degree evidence remain outstanding; the bio states this clearly. Owner-supplied postgraduate credentials are now shown in the English bio with explicit pending-verification labels; recognised specialist status is not inferred.
 
 - https://www.practo.com/kakinada/doctor/dwibhashi-karteek-sexologist
 - https://www.eka.care/doctor/dr-dwibhashi-karteek-general-practitioner-kakinada
@@ -66,3 +66,13 @@ Latest main checked: d036e6abf84e712beced634b3dd0b169dcd7b6cb. Review snapshots 
 Owner requested emerald and gold. This revision adds a custom architectural hero composition, a shorter mobile introduction, earlier physician identity, and local-only library search with 15 initial links and an accessible show-all toggle. All 129 article links remain in the HTML and available without JavaScript. No search queries are sent to a service. The earlier homepage PNG shows the prior navy design; use preview/index.html for the current design.
 
 Package verification passed (419 pages, 412 original paths, 129 topics, 418 sitemap URLs); library search/expand/collapse/no-results/reset behavioural tests passed. Browser inspection of this latest revision is pending: the current session could not reach localhost and file navigation was blocked. Earlier browser checks apply to the previous design only. A real owner-supplied portrait and confirmation of session details remain outstanding. No merge or deployment is authorized.
+
+## Owner-supplied qualification update
+
+Added P.G. Diploma in Sexology, Psychosexology & Infertility; Fellowship in Sexology, Psychosexology & Infertility; and owner-described Sex Coach / Sex Therapist roles. Awarding institutions, award years, certificates, recognition and scope remain to be verified. No Physician credential schema, specialist badge or verified qualification claim was introduced.
+
+## Physician portrait and profile wording
+
+Owner supplied dr-karteek-2026.png; the original is included unchanged as assets/dr-kaarteek-2026.png. Homepage and physician profile use responsive CSS framing with descriptive alternative text and intrinsic dimensions. No portrait was generated or retouched. The portrait contains owner-supplied clinic branding; its background text is not independent evidence of clinical capabilities.
+
+The requested phrase “verification pending” has been removed from the updated profile. Qualifications and roles are attributed to Dr. Dwibhashi Kaarteek, without a verified badge or new specialist credential schema. Institutions and award years remain absent. Credential status and publication readiness still require owner review. These changes do not authorize a production deployment. Fresh browser visual review remains outstanding due to the previously documented browser access limitations.
