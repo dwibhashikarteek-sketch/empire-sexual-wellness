@@ -11,7 +11,7 @@ https://dwibhashikarteek-sketch.github.io/empire-sexual-wellness/
 
 ## Implemented
 
-Navy, ivory and champagne design with responsive service cards, physician profile, medical consultation, individual coaching, psychosexual counselling and couples coaching pages. Proposed fees are â‚¹1,000 / â‚¹2,499 / â‚¹3,499 / â‚¹4,499 per session. An appointment information page explains privacy and consent before linking to WhatsApp +91 8374888794. No health forms, payment collection, tracking or patient database were introduced.
+Emerald, ivory and champagne design with responsive service cards, physician profile, medical consultation, individual coaching, psychosexual counselling and couples coaching pages. Proposed fees are ₹1,000 / ₹2,499 / ₹3,499 / ₹4,499 per session. An appointment information page explains privacy and consent before linking to WhatsApp +91 8374888794. No health forms, payment collection, tracking or patient database were introduced.
 
 All 412 original HTML paths remain. The 129 English topic guides, Hindi/Telugu summaries, sources, clinic logo, search verification tags and existing article URLs remain. New internal links connect retained pages to services and appointments. Existing review notices remain on educational material; it has not received a fresh clinical or translation review.
 
@@ -60,3 +60,9 @@ Rollback: restore the previous repository-root `website.zip` and let the same Pa
 ## Review preparation
 
 Latest main checked: d036e6abf84e712beced634b3dd0b169dcd7b6cb. Review snapshots show new English pages and shared CSS without changing their completed design. The deployable website.zip remains the authoritative full package. Local offline preview is in outputs/preview/index.html; its links are rewritten locally for viewing only, while production canonicals and metadata remain unchanged in website.zip. No remote preview deployment was created.
+
+## Emerald and gold review refinement
+
+Owner requested emerald and gold. This revision adds a custom architectural hero composition, a shorter mobile introduction, earlier physician identity, and local-only library search with 15 initial links and an accessible show-all toggle. All 129 article links remain in the HTML and available without JavaScript. No search queries are sent to a service. The earlier homepage PNG shows the prior navy design; use preview/index.html for the current design.
+
+Package verification passed (419 pages, 412 original paths, 129 topics, 418 sitemap URLs); library search/expand/collapse/no-results/reset behavioural tests passed. Browser inspection of this latest revision is pending: the current session could not reach localhost and file navigation was blocked. Earlier browser checks apply to the previous design only. A real owner-supplied portrait and confirmation of session details remain outstanding. No merge or deployment is authorized.
