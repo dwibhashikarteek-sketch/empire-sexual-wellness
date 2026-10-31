@@ -19,7 +19,7 @@ Canonical URLs, titles, descriptions, Open Graph metadata and WebPage JSON-LD ar
 
 ## Evidence and remaining confirmations
 
-The owner supplied Dr. Dwibhashi Karteek and APMC/FMR/95256. Matching public Practo and Eka Care listings were inspected. Practo labels registration verified but explicitly labels MBBS education unverified. Direct council verification and degree evidence remain outstanding; the bio states this clearly. No postgraduate credentials are published in the new English bio.
+The owner supplied Dr. Dwibhashi Kaarteek and APMC/FMR/95256. Matching public Practo and Eka Care listings were inspected. Practo labels registration verified but explicitly labels MBBS education unverified. Direct council verification and degree evidence remain outstanding; the bio states this clearly. No postgraduate credentials are published in the new English bio.
 
 - https://www.practo.com/kakinada/doctor/dwibhashi-karteek-sexologist
 - https://www.eka.care/doctor/dr-dwibhashi-karteek-general-practitioner-kakinada
